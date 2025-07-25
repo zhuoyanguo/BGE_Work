@@ -1,1 +1,1 @@
-# Learning-to-Draw-Cats
+# BGE Alumni Career Outcome Analysis Project
